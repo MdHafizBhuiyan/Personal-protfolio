@@ -59,3 +59,12 @@ p{
   padding-right:20px;
   border-radius:10px;
 }
+#mern-stack{
+  border-left: 7px solid tomato;
+}
+#react-js{
+  border-left: 7px solid blueviolet;
+}
+footer p{
+  text-align: center;
+}
